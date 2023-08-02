@@ -1,0 +1,4 @@
+C:\Users\Asus\Documents\Programming\cod soft\Word count\Word count\x64\Debug\Word count.vcxproj.AssemblyReference.cache
+C:\Users\Asus\Documents\Programming\cod soft\Word count\Word count\x64\Debug\Word count.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\Documents\Programming\cod soft\Word count\Word count\x64\Debug\Wordcount.MyForm.resources
+C:\Users\Asus\Documents\Programming\cod soft\Word count\Word count\x64\Debug\Word count.vcxproj.GenerateResource.cache
